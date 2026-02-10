@@ -1,0 +1,7 @@
+openai
+requests
+beautifulsoup4
+jinja2
+python-dotenv
+jieba
+volcengine
